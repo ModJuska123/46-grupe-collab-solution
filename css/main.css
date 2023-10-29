@@ -1,0 +1,133 @@
+/* Standartinis viso CSS formatavimas [2-6e] */
+body * { 
+    vertical-align: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.body-main {
+    margin-top: 20px;
+    display: inline-block;
+    width: 1000px; 
+    margin-left: calc(50% - 500px);
+}
+
+.header-entry {
+    background-color: #5A2478;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;   
+}
+
+.header-listing {
+    margin-top: 2px;
+    background-color: aquamarine;
+    display: inline-block;
+    width: 1000px; 
+    margin-left: calc(50% - 500px);
+}
+.header-logo {
+    float: left;
+}
+
+.header-right {
+    float: right;
+}
+.btn-request {
+    margin: 6px 20px 0 30px;
+    padding: 5px 10px;
+    border: 3px solid #9A54BC;
+    float: right;
+    text-decoration: none;
+    color: #9A54BC;
+    cursor: pointer;
+}
+.header-nav {
+    display: inline-block;
+}
+
+.item {
+    margin-top: 12px;
+    float: left;
+    margin-right: 10px;
+}
+
+.item:hover {
+    padding-bottom: 5px;
+    color: red;
+    border-bottom: 3px solid red;
+    }
+
+
+/* HERO */
+
+.hero-main {
+    margin-top: 20px;
+    display: inline-block;
+    width: 1000px; 
+    margin-left: calc(50% - 500px);
+    background-color: beige;
+}
+.easy-solution {
+    background-color: rosybrown;
+    width: 800px; 
+    margin-left: calc(50% - 400px);
+    color: black;
+    display: inline block;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.hero-listing {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.hero-main .btn {
+    background-color: #9A54BC;
+    margin: 6px 0 30px 0;
+    padding: 8px 20px;
+    border: 3px solid #9A54BC;
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.hero-main .picture-items {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    min-height: 800px;
+    width: 800px;
+}
+.item-main {
+    position: absolute;
+}
+.item-small {
+    position: absolute;
+    top: 45px;
+}
+
+.item-logo {
+    position: absolute;
+    top: 25px;
+}
+
+.btn-explore-product {
+    position: absolute;
+    bottom: 80px;
+    background-color: #fff;
+    margin: 6px 0 30px 0;
+    padding: 8px 20px;
+    border: 3px solid #9A54BC;
+    text-decoration: none;
+    color: #9A54BC;
+    cursor: pointer;
+    border-radius: 5px;
+}
