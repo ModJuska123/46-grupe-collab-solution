@@ -113,10 +113,15 @@ body * {
     position: absolute;
     top: 45px;
 }
+.item-frame {
+    position: absolute;
+    top: 25px;}
+
 
 .item-logo {
     position: absolute;
-    top: 25px;
+    top: 225px;
+    z-index: 1;
 }
 
 .btn-explore-product {
@@ -129,5 +134,30 @@ body * {
     text-decoration: none;
     color: #9A54BC;
     cursor: pointer;
-    border-radius: 5px;
-}
+    border-radius: 5px;}
+
+
+    .trusted-main {
+    background-color: azure;
+    display: grid;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 3rem;
+    }
+    
+    .trusted-title {
+    
+    }
+    
+    .trusted-listing {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    }
+
+    .trusted-logos {
+    height: 5rem;
+    width:5rem;
+    
+    }
+       
