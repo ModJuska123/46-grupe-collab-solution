@@ -10,9 +10,9 @@ _Website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://modjuska123.github.io/46-grupe-real-estate 
+Site published at: .................. 
 
-Design: [Real-setate](https://dribbble.com/shots/10172325/attachments/2114690?mode=media)
+Design: [Real-setate](https://www.figma.com/file/9mV6rCFOEd1ptuZ4JBovVS/Collab-landing-page-design-(Community)?type=design&node-id=1-971&mode=design&t=C2V2XUs0z1cojLX6-0)
 
 ##  ⛳Project features/goals
 
