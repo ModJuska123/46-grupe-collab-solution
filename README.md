@@ -1,6 +1,6 @@
 ![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 
-# Real-estate
+# Collab-solution
 
 _Website design project_
 
