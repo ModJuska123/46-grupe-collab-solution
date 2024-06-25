@@ -10,14 +10,14 @@ _Website design project_
 
 This project is for educational purposes only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: .................. 
+Site published at: https://modjuska123.github.io/46-grupe-collab-solution/
 
-Design: [Collab-landing-page-design](https://www.figma.com/file/9mV6rCFOEd1ptuZ4JBovVS/Collab-landing-page-design-(Community)?type=design&node-id=1-971&mode=design&t=C2V2XUs0z1cojLX6-0)
+Design: [Figma](https://www.figma.com/file/9mV6rCFOEd1ptuZ4JBovVS/Collab-landing-page-design-(Community)?type=design&node-id=1-971&mode=design&t=C2V2XUs0z1cojLX6-0)
 
 ##  ⛳Project features/goals
 
 - Github pages
-- Basic HTML (structure) and CSS (style)
+- Basic HTML structure and CSS style
 - Markdown
 - Desktop only
 
@@ -43,7 +43,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://modjuska123.github.io/46-grupe-collab-solution/
+    git clone https://github.com/ModJuska123/46-grupe-collab-solution
     ```
 2. Install NPM packages
     ```sh
