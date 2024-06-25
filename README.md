@@ -43,7 +43,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://modjuska123.github.io/46-grupe-real-estate/
+    git clone https://modjuska123.github.io/46-grupe-collab-solution/
     ```
 2. Install NPM packages
     ```sh
@@ -72,4 +72,4 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## 🎎 Other resources
 
-No other resouces.
+No other resources.
