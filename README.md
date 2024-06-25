@@ -8,18 +8,18 @@ _Website design project_
 
 ## ⭐ About
 
-This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
+This project is for educational purposes only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
 Site published at: .................. 
 
-Design: [Real-setate](https://www.figma.com/file/9mV6rCFOEd1ptuZ4JBovVS/Collab-landing-page-design-(Community)?type=design&node-id=1-971&mode=design&t=C2V2XUs0z1cojLX6-0)
+Design: [Collab-landing-page-design](https://www.figma.com/file/9mV6rCFOEd1ptuZ4JBovVS/Collab-landing-page-design-(Community)?type=design&node-id=1-971&mode=design&t=C2V2XUs0z1cojLX6-0)
 
 ##  ⛳Project features/goals
 
--   Github pages
--   basic [HTML (structure)](https://www.w3schools.com/TAGS/default.asp) and CSS (style)
--   [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--   desktop only
+- Github pages
+- Basic HTML (structure) and CSS (style)
+- Markdown
+- Desktop only
 
 ## ⏳ Getting Started
 
